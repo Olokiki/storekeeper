@@ -13,4 +13,8 @@ Programs used:
 -Backend: Nodejs +SQLite
 -Database: SQLite
 
-Demo Video
+Demo Video: https://drive.google.com/drive/folders/1oS6JvphiIFKGqcuZ48D-7dWhh1eKJl00?usp=sharing
+
+Apk: https://appetize.io/app/b_jc7qzfdyg72ihgqffsrjhoc27a
+
+Github repo: 
