@@ -6,11 +6,19 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Storekeeper is a modern inventory management app built to help small business owners and store managers organize their products effortlessly. It allows users add, edit, and delete products locally using SQLite.
+It also supports capturing or uploading product images via the native camera.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Some features include:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add, view, edit, and delete products
+Local SQLite database
+Native camera image upload
+Clean, responsive UI
+Programs used: -Frontend/App Dev/UI: Flutter(Dart) -Backend: Nodejs +SQLite -Database: SQLite
+
+Demo Video: https://drive.google.com/drive/folders/1oS6JvphiIFKGqcuZ48D-7dWhh1eKJl00?usp=sharing
+
+Apk: https://appetize.io/app/b_jc7qzfdyg72ihgqffsrjhoc27a
+
+Github repo: https://github.com/Olokiki/storekeeper/blob/master/README.md
