@@ -17,4 +17,4 @@ Demo Video: https://drive.google.com/drive/folders/1oS6JvphiIFKGqcuZ48D-7dWhh1eK
 
 Apk: https://appetize.io/app/b_jc7qzfdyg72ihgqffsrjhoc27a
 
-Github repo: 
+Github repo: https://github.com/Olokiki/storekeeper/blob/master/README.md
